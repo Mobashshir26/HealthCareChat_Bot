@@ -1,5 +1,5 @@
 # Overview
-Welcome to my Healthcare Chatbot! This chatbot is designed to assist users with various healthcare-related inquiries, providing quick and reliable information on symptoms, treatments, medical conditions, and more. Whether you're looking for general health advice or need assistance in finding nearby healthcare facilities, our chatbot is here to help.
+Welcome to my Healthcare Chatbot! This chatbot is designed to assist users with various healthcare-related inquiries, providing quick and reliable information on symptoms, treatments, medical conditions, and more. Whether you're looking for general health advice my chatbot is here to help.
 
 # Features
 Natural Language Understanding: The chatbot is capable of understanding user queries in natural language, allowing seamless interaction.
